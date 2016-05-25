@@ -16,19 +16,19 @@ The key packages and functions that we call in this package include \code{GenOrd
 \tabular{ll}{
 Package: \tab BinOrdNonNor\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2015-01-30\cr
-License: \tab GPL (>=2)\cr
+Version: \tab 1.1\cr
+Date: \tab 2016-05-24\cr
+License: \tab GPL-2 | GPL-3\cr
 }}
 \author{
-Yue Wang, Hakan Demirtas
+Hakan Demirtas, Yue Wang, Rawan Allozi
 
-Maintainer: Yue Wang <ywang349@uic.edu>
+Maintainer: Rawan Allozi <ralloz2@uic.edu>
 }
 \references{
 Demirtas, H., Hedeker, D., and Mermelstein, R.J. (2012). Simulation of massive public health data by power polynomials. Statistics in Medicine, 31(27), 3337-3346.
 
-Demirtas, H., Yavuz Y. (2015). Concurrent generation of ordinal and normal data. Journal of Biopharmaceutical Statistics, in press.
+Demirtas, H. and Yavuz Y. (2015). Concurrent generation of ordinal and normal data. Journal of Biopharmaceutical Statistics, 25(4), 635-650.
 
 Vale, C.D., and Maurelli, V.A. (1983). Simulating multivariate nonnormal distributions. Psychometrika, 48(3), 465-471.
 }

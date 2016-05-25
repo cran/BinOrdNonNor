@@ -15,7 +15,7 @@ IntermediateONN(plist, skew.vec, kurto.vec, ONNCorrMat)
 \references{
 Demirtas, H., Hedeker, D., and Mermelstein, R.J. (2012). Simulation of massive public health data by power polynomials. Statistics in Medicine, 31(27), 3337-3346.
 
-Demirtas, H., Hedeker, D. (in press). Computing the point-biserial correlation under any underlying continuous distribution. Communications in Statistics Simulation and Computation.
+Demirtas, H. and Hedeker, D. (2016). Computing the point-biserial correlation under any underlying continuous distribution. Forthcoming in Communications in Statistics Simulation and Computation.
 }
 \seealso{\code{\link{IntermediateNonNor}}, \code{\link{cmat.star.BinOrdNN}}}
 \examples{

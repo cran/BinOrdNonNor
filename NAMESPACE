@@ -2,6 +2,8 @@ exportPattern("^[[:alpha:]]+")
 
 import(GenOrd, OrdNor) 
 
+importFrom("stats", "cor", "rnorm")
+
 importFrom(BB, BBsolve) 
 
 importFrom(corpcor, is.positive.definite)
