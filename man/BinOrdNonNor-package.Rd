@@ -16,8 +16,8 @@ The key packages and functions that we call in this package include \code{GenOrd
 \tabular{ll}{
 Package: \tab BinOrdNonNor\cr
 Type: \tab Package\cr
-Version: \tab 1.2\cr
-Date: \tab 2017-01-25\cr
+Version: \tab 1.3\cr
+Date: \tab 2017-03-28\cr
 License: \tab GPL-2 | GPL-3\cr
 }}
 \author{
@@ -26,9 +26,15 @@ Hakan Demirtas, Yue Wang, Rawan Allozi
 Maintainer: Rawan Allozi <ralloz2@uic.edu>
 }
 \references{
+Demirtas, H. and Hedeker, D. (2011). A practical way for computing approximate lower and upper correlation bounds. The American Statistician, 65(2), 104-109.
+
+Demirtas, H. and Hedeker, D. (2016). Computing the point-biserial correlation under any underlying continuous distribution. Communications in Statistics - Simulation and Computation, 45(8), 2744-2751.
+
 Demirtas, H., Hedeker, D., and Mermelstein, R.J. (2012). Simulation of massive public health data by power polynomials. Statistics in Medicine, 31(27), 3337-3346.
 
 Demirtas, H. and Yavuz Y. (2015). Concurrent generation of ordinal and normal data. Journal of Biopharmaceutical Statistics, 25(4), 635-650.
+
+Fleishman, A.I. (1978). A method for simulating non-normal distributions. Psychometrika, 43(4), 521-532.
 
 Vale, C.D., and Maurelli, V.A. (1983). Simulating multivariate nonnormal distributions. Psychometrika, 48(3), 465-471.
 }

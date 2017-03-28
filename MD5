@@ -1,4 +1,4 @@
-1fddeb7ce35967a19a8e45966641cb60 *DESCRIPTION
+21652cdf8bedf790d3d5d2793d0af590 *DESCRIPTION
 99e3f2b39fb5c8426053c3c0ee500350 *NAMESPACE
 6725d8b1c9ff2f34e5197abe3744b453 *R/BinOrdNonNor-internal.R
 73ce58d286c4d089c9bd534335e19c3d *R/Fleishman.coef.NN.R
@@ -10,10 +10,10 @@ e6eda6aefe33ddf5979602165d0f6441 *R/IntermediateONN.R
 efc4752d3c847b851db23a0271359507 *R/genBinOrdNN.R
 d109ddfcfea4a906daf87071972e86de *R/valid.limits.BinOrdNN.R
 f80c3599f77eedf0b21f724943a67031 *R/validate.target.cormat.BinOrdNN.R
-ecfb4516da4d62fa304468d0eb8ecb46 *man/BinOrdNonNor-package.Rd
+fb139d1d833dbe9dc8e891cb5ea7dc37 *man/BinOrdNonNor-package.Rd
 805ca6c9f4ab7a15246c4de1fc1926f1 *man/Fleishman.coef.NN.Rd
 6e5289766d480d0030da466cff8a082b *man/IntermediateNonNor.Rd
-79fc9593b4e95f38ab0b6f08236b7d9d *man/IntermediateONN.Rd
+cd3a4205fc31b6a3a51b34a088a76cb1 *man/IntermediateONN.Rd
 61291bcb92d59a0533f1f98eb90765b9 *man/Limit_forNN.Rd
 dfe23ab333cd3f589e929566634ad393 *man/Limit_forONN.Rd
 76672c712d2660efee75aa2d80af3aa0 *man/cmat.star.BinOrdNN.Rd
