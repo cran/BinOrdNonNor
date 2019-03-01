@@ -15,7 +15,7 @@ valid.limits.BinOrdNN(plist, skew.vec, kurto.vec, no.bin, no.ord, no.NN)
   \item{no.NN}{Number of continuous variables.}
 }
 \value{A list of two matrices. The one named lower contains the lower bounds and the other named upper contains the upper bounds of the feasible correlations.}
-\seealso{\code{\link{Limit_forNN}}, \code{\link{Limit_forONN}}}
+\seealso{\code{\link{LimitforNN}}, \code{\link{LimitforONN}}}
 \examples{
 marginal <- list(0.2, c(0.4, 0.7, 0.9))
 valid.limits.BinOrdNN(plist=marginal, skew.vec=c(1,2), kurto.vec=c(2,7), 

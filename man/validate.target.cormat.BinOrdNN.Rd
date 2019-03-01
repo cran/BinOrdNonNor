@@ -2,7 +2,7 @@
 \alias{validate.target.cormat.BinOrdNN}
 \title{Checks the validity of the target correlation matrix
 }
-\description{The function checks the validity of the values of pairwise correlations. In addition, it checks positive definiteness, symmetry and correct dimensions.}
+\description{The function checks the validity of pairwise correlations. In addition, it checks positive definiteness, symmetry, and correct dimensions.}
 \usage{
 validate.target.cormat.BinOrdNN(plist, skew.vec, kurto.vec, no.bin, no.ord, 
 no.NN, CorrMat)
