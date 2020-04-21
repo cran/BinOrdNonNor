@@ -16,8 +16,8 @@ The key packages and functions that we call in this package include \code{GenOrd
 \tabular{ll}{
 Package: \tab BinOrdNonNor\cr
 Type: \tab Package\cr
-Version: \tab 1.5\cr
-Date: \tab 2019-02-28\cr
+Version: \tab 1.5.1\cr
+Date: \tab 2020-04-14\cr
 License: \tab GPL-2 | GPL-3\cr
 }}
 \author{
